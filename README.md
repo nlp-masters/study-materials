@@ -12,17 +12,34 @@ NLP study materials
 
 1. 언어 모델
 https://jmlr.org/papers/volume3/tmp/bengio03a.pdf
+
+2020/12/12 (Sat)
+발표: 후후름, NLP
+
 2. word2vec
 https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
+
+발표: 안녕하세요, 로지션
+
 3. glove
 https://nlp.stanford.edu/pubs/glove.pdf
+
+발표: 바트, ㅎㅎ
+
 4. seq2seq with attention
 https://arxiv.org/abs/1409.0473
+
+발표: 언어돌, 김킴낌
+
 5. 트랜스포머
 https://arxiv.org/abs/1706.03762
+
+발표: 센티멘트, 자연어공부
+
 6. Bert
 https://arxiv.org/abs/1810.04805
-6. 향후 논의
+
+7. 향후 논의
 
  
 ==== 방법 ====
@@ -30,3 +47,5 @@ https://arxiv.org/abs/1810.04805
 1. 매주 동일 논문 읽고 발제문 제출
 2. 한 명씩 돌아가면서 발표
 3. 발표한 영상 유튜브 업로드
+
+
