@@ -27,11 +27,13 @@ https://nlp.stanford.edu/pubs/glove.pdf
 발표: 바트, ㅎㅎ
 
 4. seq2seq with attention
+
 https://arxiv.org/abs/1409.0473
 
 발표: 언어돌, 김킴낌, 자연어
 
 https://arxiv.org/pdf/1406.1078.pdf
+
 발표 : 최상혁
 
 5. 트랜스포머
