@@ -24,7 +24,7 @@ https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pd
 3. glove
 https://nlp.stanford.edu/pubs/glove.pdf
 
-발표: 바트, ㅎㅎ
+발표: 바트, ㅎㅎ, 두이
 
 4. seq2seq with attention
 
