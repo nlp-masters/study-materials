@@ -31,6 +31,9 @@ https://arxiv.org/abs/1409.0473
 
 발표: 언어돌, 김킴낌, 자연어
 
+https://arxiv.org/pdf/1406.1078.pdf
+발표 : 최상혁
+
 5. 트랜스포머
 https://arxiv.org/abs/1706.03762
 
