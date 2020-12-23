@@ -20,7 +20,7 @@ NLP study materials
   - 발표: 안녕하세요, 로지션
     - https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
   
-**3. glove **
+**3. glove**
   - 발표: 바트, ㅎㅎ, 두이
     - https://nlp.stanford.edu/pubs/glove.pdf
   
