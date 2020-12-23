@@ -1,6 +1,3 @@
-# Study
-: 공부한 것을 기록하자 
-
 # study-materials
 NLP study materials
 
