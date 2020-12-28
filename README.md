@@ -25,13 +25,12 @@ NLP study materials
   
 **3. glove**
   - 발표: 바트, 두이 // 펑크남 (20.12.26 ban)  
-  - 발표: 최상혁 (21. 1. 2.)  
+  - 발표: 최상혁 (21. 1. 2.)
     - https://nlp.stanford.edu/pubs/glove.pdf
   
 **4. seq2seq with attention**
   - 발표: 언어돌, 김킴낌 (21. 1. 2.)
-    - https://arxiv.org/abs/1409.0473  
-  
+    - https://arxiv.org/abs/1409.0473
   - 발표 : 최상혁 (21. 1. 9.)
     - https://arxiv.org/pdf/1406.1078.pdf
   
