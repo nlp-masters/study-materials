@@ -20,23 +20,22 @@ NLP study materials
     - https://jmlr.org/papers/volume3/tmp/bengio03a.pdf
 
 **2. word2vec**
-  - 발표: 안녕하세요, 로지션
+  - 발표: 안녕하세요
     - https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
   
 **3. glove**
-  - 발표: 바트, 두이 // 펑크남 (20.12.26 ban)  
   - 발표: 최상혁 (21. 1. 2.)
     - https://nlp.stanford.edu/pubs/glove.pdf
   
 **4. seq2seq with attention**
-  - 발표: 언어돌, 김킴낌 (21. 1. 2.)
+  - 발표: 언어돌 (21. 1. 2.)
     - https://arxiv.org/abs/1409.0473
   - 발표 : 최상혁 (21. 1. 9.)
     - https://arxiv.org/pdf/1406.1078.pdf
   
 
 **5. 트랜스포머**
-  - 발표: 센티멘트, 자연어 
+  - 발표: 자연어 
     - https://arxiv.org/abs/1706.03762
   
 **6. Bert**  
@@ -57,8 +56,7 @@ https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49d
 3. 발표한 영상 유튜브 업로드
   - 가능한 한 발표자가 영상 만들기 (zoom으로 방장이 녹화 시 연결 불량 문제로 끊김 부분이 함께 녹화되는 경우가 있다) 
 4. 자신의 발표 차례가 아니어도 발표 영상을 만드신 분은 언제든 공유 환영.  
-5. 
-   
+
      
  
 // 실명 공개, 자기소개 간단하게.  
