@@ -30,8 +30,10 @@ NLP study materials
 **4. seq2seq with attention**
   - 발표: 언어돌 (21. 1. 2.)
     - https://arxiv.org/abs/1409.0473
+  
+**4.5. Advances in natural language processing**
   - 발표 : 최상혁 (21. 1. 9.)
-    - https://arxiv.org/pdf/1406.1078.pdf
+    - https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf
   
 
 **5. 트랜스포머**
