@@ -15,12 +15,12 @@ NLP study materials
 
 **1. 언어 모델 -  2020/12/12 (Sat)**  
 
-  - 발표: 후후름, NLP 
+  - 발표: 김정용, NLP 
   
     - https://jmlr.org/papers/volume3/tmp/bengio03a.pdf
 
 **2. word2vec**
-  - 발표: 안녕하세요
+  - 발표: 우유란
     - https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
   
 **3. glove**
@@ -37,12 +37,12 @@ NLP study materials
   
 
 **5. 트랜스포머**
-  - 발표: 자연어 
+  - 발표: 이화정
     - https://arxiv.org/abs/1706.03762
   
 **6. Bert**  
   
- - 발표: 언어돌, 최상혁, NLP  
+ - 발표: , 최상혁, NLP  
  
 https://arxiv.org/abs/1810.04805
 
