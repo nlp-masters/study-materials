@@ -34,6 +34,9 @@ NLP study materials
 **4.5. Advances in natural language processing**
   - 발표 : 최상혁 (21. 1. 9.)
     - https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf
+  # 방장님 오픈채팅방에 참여코드 좀 남겨주실 수 있나요? 어쩌다 오픈채팅 며칠간 금지 당해서 채팅방 읽을 수는 있는데 쓸 수가 없어서 카톡 세컨 계정으로 들어가고 싶어서요..
+  누가 보시면 채팅방에 메시지 좀 남겨 주세요.. ..   2021/1/8 21:44.. 
+  
   
 
 **5. 트랜스포머**
