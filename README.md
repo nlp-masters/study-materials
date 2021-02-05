@@ -11,48 +11,21 @@ NLP study materials
 
 </br>
 
-## 발표 스케줄 
-
-**1. 언어 모델 -  2020/12/12 (Sat)**  
-
-  - 발표: 김정용, NLP 
-  
-    - https://jmlr.org/papers/volume3/tmp/bengio03a.pdf
-
-**2. word2vec**
-  - 발표: 우유란
-    - https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf
-  
-**3. glove**
-  - 발표: 최상혁 (21. 1. 2.)
-    - https://nlp.stanford.edu/pubs/glove.pdf
-  
-**4. seq2seq with attention**
-  - 발표: 언어돌 (21. 1. 2.)
-    - https://arxiv.org/abs/1409.0473
-  
-**4.5. Advances in natural language processing**
-  - 발표 : 최상혁 (21. 1. 9.)
-    - https://nlp.stanford.edu/~manning/xyzzy/Hirschberg-Manning-Science-2015.pdf
-  ##### 방장님 오픈채팅방에 참여코드 좀 남겨주실 수 있나요? 어쩌다 오픈채팅 며칠간 금지 당해서 채팅방 읽을 수는 있는데 쓸 수가 없어서 카톡 세컨 계정으로 들어가고 싶어서요..
-  누가 보시면 채팅방에 메시지 좀 남겨 주세요.. ..   2021/1/8 21:44..  
-  ==> 주소: https://open.kakao.com/o/gf4wYmJc 비번: 0000
-  
-  
-
-**5. 트랜스포머**
-  - 발표: 이화정
-    - https://arxiv.org/abs/1706.03762
-  
-**6. Bert**  
-  
- - 발표: , 최상혁, NLP  
- 
-https://arxiv.org/abs/1810.04805
+## 발표 스케줄 : 매주 토요일 9시
 
 
-7. 향후 논의  
-https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd
+| 날짜 |  발표자 | 논문 제목 | 설명 |
+|-------|-------|-------|---|
+|2020/12/12| 김정용 |A Neural Probabilistic Language Model|[언어 모델](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)|
+|2020/12/12| NLP |A Neural Probabilistic Language Model|[언어 모델](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)|
+|2020/12/19| 우유란 |Distributed Representations of Words and Phrases and their Compositionality|[word2vec](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)|
+|2021/01/02| 최상혁 |GloVe: Global Vectors for Word Representation|[glove](https://nlp.stanford.edu/pubs/glove.pdf)|
+|2021/01/02| 정재영 |Neural Machine Translation by Jointly Learning to Align and Translate|[seq2seq with attention](https://arxiv.org/abs/1409.0473)|
+|2021/01/09| 이화정 |Attention Is All You Need|[Transfomer](https://arxiv.org/abs/1706.03762)|
+|2021/01/16| 최상혁 |BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[BERT](https://arxiv.org/abs/1810.04805)|
+|2021/01/16| NLP |BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[BERT](https://arxiv.org/abs/1810.04805)|
+|2021/01/30| 정재영 |SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS|[Graph Convolutional Network](https://arxiv.org/abs/1609.02907)|
+|2021/02/06| 김민우 |ELECTRA_ Pre-training Text Encoders as Discriminators Rather Than Generators|[ELECTRA](https://arxiv.org/abs/2003.10555)|
 
  
 ## 방법 
