@@ -14,7 +14,7 @@ NLP study materials
 ## 발표 스케줄 : 매주 토요일 9시
 
 
-| 날짜 |  발표자 | 논문 제목 | 설명 |
+| 날짜 |  발 표 자 | 논문 제목 | 설명 |
 |-------|-------|-------|---|
 |2020/12/12| 김정용 |A Neural Probabilistic Language Model|[언어 모델](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)|
 |2020/12/12| NLP |A Neural Probabilistic Language Model|[언어 모델](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)|
