@@ -16,8 +16,8 @@ NLP study materials
 
 | 날짜 |  발 표 자 | 논문 제목 | 설명 |
 |-------|-------|-------|---|
-|2020/12/12| 김정용 |A Neural Probabilistic Language Model|[언어 모델](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)|
-|2020/12/12| 민경은 |A Neural Probabilistic Language Model|[언어 모델](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)|
+|2020/12/12| 김정용 |A Neural Probabilistic Language Model|[NPLM](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)|
+|2020/12/12| 민경은 |A Neural Probabilistic Language Model|[NPLM](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)|
 |2020/12/19| 우유란 |Distributed Representations of Words and Phrases and their Compositionality|[word2vec](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)|
 |2021/01/02| 최상혁 |GloVe: Global Vectors for Word Representation|[glove](https://nlp.stanford.edu/pubs/glove.pdf)|
 |2021/01/02| 정재영 |Neural Machine Translation by Jointly Learning to Align and Translate|[seq2seq with attention](https://arxiv.org/abs/1409.0473)|
