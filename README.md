@@ -26,7 +26,8 @@ NLP study materials
 |2021/01/16| 민경은 |BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|[BERT](https://arxiv.org/abs/1810.04805)|
 |2021/01/30| 정재영 |SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS|[Graph Convolutional Network](https://arxiv.org/abs/1609.02907)|
 |2021/02/06| 김민우 |ELECTRA_ Pre-training Text Encoders as Discriminators Rather Than Generators|[ELECTRA](https://arxiv.org/abs/2003.10555)|
-|2021/02/20| 우유란 |Language Models are Unsupervised Multitask Learners|[GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|
+|2021/02/20| 우유란 |Language Models are Unsupervised Multitask Learners|[GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|  
+|2021/02/27| 정재영 |Graph Attention Networks|[GAT](https://arxiv.org/abs/1710.10903)|
  
  
 ## 방법 
