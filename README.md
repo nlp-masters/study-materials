@@ -30,6 +30,8 @@ NLP study materials
 |2021/02/27| 정재영 |Graph Attention Networks|[GAT](https://arxiv.org/abs/1710.10903)|
  
  
+|2021/03/27| 우유란 |Get To The Point: Summarization with Pointer-Generator Networks|[Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)|
+ 
 ## 방법 
 
 1. 매주 동일 논문 읽고 발제문 제출
