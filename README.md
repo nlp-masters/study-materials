@@ -28,7 +28,9 @@ NLP study materials
 |2021/02/06| 김민우 |ELECTRA_ Pre-training Text Encoders as Discriminators Rather Than Generators|[ELECTRA](https://arxiv.org/abs/2003.10555)|
 |2021/02/20| 우유란 |Language Models are Unsupervised Multitask Learners|[GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|  
 |2021/02/27| 정재영 |Graph Attention Networks|[GAT](https://arxiv.org/abs/1710.10903)|
+|2021/03/05| 최상혁 |Coreferential Reasoning Learning for Language Representation|[CorefBERT](https://arxiv.org/abs/2004.06870)|
 |2021/03/27| 우유란 |Get To The Point: Summarization with Pointer-Generator Networks|[Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)|
+|2021/04/03| 최상혁 |A Persona-Based Neural Conversation Model|[Dialogue](https://arxiv.org/abs/1603.06155)|
  
 ## 방법 
 
