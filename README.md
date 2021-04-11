@@ -31,7 +31,7 @@ NLP study materials
 |2021/03/05| 최상혁 |Coreferential Reasoning Learning for Language Representation|[CorefBERT](https://arxiv.org/abs/2004.06870)|
 |2021/03/27| 우유란 |Get To The Point: Summarization with Pointer-Generator Networks|[Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)|
 |2021/04/03| 최상혁 |A Persona-Based Neural Conversation Model|[Persona-Based](https://arxiv.org/abs/1603.06155)|
- 
+|2021/04/10| 정재영 |Neural Logic Reasoning|[LINN](https://arxiv.org/abs/2008.09514)|
 ## 방법 
 
 1. 매주 동일 논문 읽고 발제문 제출
