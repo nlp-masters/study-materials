@@ -34,6 +34,7 @@ NLP study materials
 |2021/04/03| 최상혁 |A Persona-Based Neural Conversation Model|[Persona-Based](https://arxiv.org/abs/1603.06155)|
 |2021/04/10| 정재영 |Neural Logic Reasoning|[LINN](https://arxiv.org/abs/2008.09514)|
 |2021/04/17| 우유란 |A Hierarchical Structured Self-Attentive Model for Extractive Document Summarization |[HSSAS](https://arxiv.org/abs/1805.07799)|
+|2021/05/01| 정재영 |Survey on Intelligent Chatbots: State-of-the-Art and Future Research Directions |[survey](https://www.researchgate.net/publication/333931397_Survey_on_Intelligent_Chatbots_State-of-the-Art_and_Future_Research_Directions)|
 ## 방법 
 
 1. 매주 동일 논문 읽고 발제문 제출
