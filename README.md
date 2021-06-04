@@ -37,6 +37,8 @@ NLP study materials
 |2021/05/01| 정재영 |Survey on Intelligent Chatbots: State-of-the-Art and Future Research Directions |[survey](https://www.researchgate.net/publication/333931397_Survey_on_Intelligent_Chatbots_State-of-the-Art_and_Future_Research_Directions)|
 |2021/05/08| 이화정 |ALBERT: A Lite BERT for Self-supervised Learning of Language Representations  |[ALBERT](https://arxiv.org/abs/1909.11942)|
 |2021/05/22| 정재영 |Are Pre-trained Convolutions Better than Pre-trained Transformers?  |[Pretrained-Convolution](https://arxiv.org/abs/2105.03322)|
+|2021/05/29| 김정용|Deciphering Undersegmented Ancient Scripts Using Phonetic Prior  |[Deciphering Ancient Scripts](https://arxiv.org/abs/2010.11054)|
+|2021/06/05| 정재영 |Pay attention to MLPs  |[gMLP](https://arxiv.org/abs/2105.08050)|
 ## 방법 
 
 1. 매주 동일 논문 읽고 발제문 제출
