@@ -36,12 +36,13 @@ NLP study materials
 |2021/04/17| 우유란 |A Hierarchical Structured Self-Attentive Model for Extractive Document Summarization |[HSSAS](https://arxiv.org/abs/1805.07799)|
 |2021/05/01| 정재영 |Survey on Intelligent Chatbots: State-of-the-Art and Future Research Directions |[survey](https://www.researchgate.net/publication/333931397_Survey_on_Intelligent_Chatbots_State-of-the-Art_and_Future_Research_Directions)|
 |2021/05/08| 이화정 |ALBERT: A Lite BERT for Self-supervised Learning of Language Representations  |[ALBERT](https://arxiv.org/abs/1909.11942)|
+|2021/05/08| 최상혁 |Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings |[Bias in Word Embedding](https://arxiv.org/abs/1607.06520) |
 |2021/05/15| 우유란 |FedNLP: A Research Platform for Federated Learning in Natural Language Processing  |[FedNLP](https://arxiv.org/abs/2104.08815)|
 |2021/05/22| 정재영 |Are Pre-trained Convolutions Better than Pre-trained Transformers?  |[Pretrained-Convolution](https://arxiv.org/abs/2105.03322)|
 |2021/05/29| 김정용| Deciphering Undersegmented Ancient Scripts Using Phonetic Prior  |[Deciphering Ancient Scripts](https://arxiv.org/abs/2010.11054)|
 |2021/06/05| 정재영 |Pay attention to MLPs  |[gMLP](https://arxiv.org/abs/2105.08050)|
 |2021/07/10| 최상혁 | ConvBERT: Improving BERT with Span-based Dynamic Convolution |[ConvBERT](https://proceedings.neurips.cc//paper/2020/file/96da2f590cd7246bbde0051047b0d6f7-Paper.pdf)|
-|2021/07/17| 최상혁 |Can a Fruit Fly Learn Word Embeddings?  |[word embedding](https://arxiv.org/abs/2101.06887)|
+|2021/07/17| 최상혁 |Can a Fruit Fly Learn Word Embeddings?  |[Fruit Fly Word Embedding](https://arxiv.org/abs/2101.06887)|
 |2021/07/24| 이화정 | RoBERTa: A Robustly Optimized BERT Pretraining Approach |[RoBERTa](https://arxiv.org/abs/1907.11692)|
 
 
