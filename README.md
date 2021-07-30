@@ -44,7 +44,7 @@ NLP study materials
 |2021/07/10| 최상혁 | ConvBERT: Improving BERT with Span-based Dynamic Convolution |[ConvBERT](https://proceedings.neurips.cc//paper/2020/file/96da2f590cd7246bbde0051047b0d6f7-Paper.pdf)|
 |2021/07/17| 최상혁 |Can a Fruit Fly Learn Word Embeddings?  |[Fruit Fly Word Embedding](https://arxiv.org/abs/2101.06887)|
 |2021/07/24| 이화정 | RoBERTa: A Robustly Optimized BERT Pretraining Approach |[RoBERTa](https://arxiv.org/abs/1907.11692)|
-
+|2021/07/31| 정재영| A survey of Loss functions |[RoBERTa](https://arxiv.org/abs/1907.11692)|
 
 
 ## 방법 
