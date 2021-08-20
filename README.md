@@ -45,6 +45,8 @@ NLP study materials
 |2021/07/17| 최상혁 |Can a Fruit Fly Learn Word Embeddings?  |[Fruit Fly Word Embedding](https://arxiv.org/abs/2101.06887)|
 |2021/07/24| 이화정 | RoBERTa: A Robustly Optimized BERT Pretraining Approach |[RoBERTa](https://arxiv.org/abs/1907.11692)|
 |2021/07/31| 정재영| A survey of Loss functions |[loss_fn](https://github.com/nlp-masters/study-materials/blob/main/loss_functions/survey_of_loss_function_for_regression.pdf)|
+|2021/08/15| 최상혁 | Extracting Training Data from Large Language Models  |[Extracting Training Data](https://arxiv.org/abs/2012.07805)|
+|2021/08/21| 이화정 | ArcFace: Additive Angular Margin Loss for Deep Face Recognition |[ArcFace](https://arxiv.org/abs/1801.07698)|
 
 
 ## 방법 
